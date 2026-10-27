@@ -1,0 +1,8 @@
+﻿model_label,val_opt_method,val_ann,val_cum
+lasso_gbdt,bayes_optuna_tpe,1.0131210070252088,31.607705462079082
+lasso_bagging,bayes_optuna_tpe,0.9331951011229564,25.65007014844231
+lasso_svm,grid_walkforward,0.9226708877003909,24.935326367750292
+lasso_rf,grid_walkforward,0.8983415594064146,23.3415639011699
+lasso_stacking,bayes_optuna_tpe,0.7941697340014979,17.377255632770893
+lasso_mlp,bayes_optuna_tpe,0.6888405131789295,12.596513099654837
+lasso_baseline_long,baseline,0.3758523808283145,7.338017904059258
